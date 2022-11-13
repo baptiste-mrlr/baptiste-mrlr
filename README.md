@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @baptiste-mrlr
 - 👀 I’m interested in website
 - 🌱 I’m currently learning Pyton, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me baptiste.marliere@outlook.fr
